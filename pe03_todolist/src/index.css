@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  max-width: 400px;
+  margin: auto;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
